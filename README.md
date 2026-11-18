@@ -1,6 +1,6 @@
 # Hi, I'm Ishan Sharma 👋
 
-### Data Science Student | Python | Machine Learning | Emerging Data Scientist
+### Data Science Student | Python | Machine Learning 
 
 🎓 B.Tech CSE (Data Science – IBM Collaboration)
 
